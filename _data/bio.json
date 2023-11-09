@@ -1,118 +1,157 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Raphael Anroe Bumanlag",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "../img/IMG_2352%20(2).JPG",
+    "email": "raphael6@hawaii.edu",
+    "phone": "808-376-9229",
+    "website": "https://RaphaelBumanlag.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "96819",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "RaphaelBumanlag",
+        "url": "http://github.com/RaphaelBumanlag"
+      },
+      {
+        "network": "linkedin",
+        "username": "raphaelbumanlag",
+        "url": "https://www.linkedin.com/in/raphaelbumanlag/"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "game development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "sustainablility",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "level": "",
+      "keywords": [
+        "Java",
+        "Javascript",
+        "C",
+        "C++"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "level": "",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Experiences",
+      "level": "",
+      "keywords": [
+        "Networking",
+        "Computer Hardware",
+        "Computer Troubleshooting"
+      ]
+    },
+    {
+      "name": "World Languages",
+      "level": "",
+      "keywords": [
+        "English",
+        "Tagalog",
+        "Japanese"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-09",
       "endDate": "Present",
+      "gpa": "",
       "courses": [
+        "ICS 111 - Intro to Computer Science I",
+        "ICS 141 - ICS Discrete Math I",
+        "ICS 211 - Intro to Computer Science II",
+        "ICS 241 - ICS Discrete Math II",
+        "ICS 212 - ICS Scripting or C/C++",
+        "ICS 311 - Algorithms",
+        "ICS 312 - Machine-Level and Systems Programming",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 414 - Software Engineering II"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa College of Engineering",
+      "position": "Computer Technician",
+      "website": "https://cee.freshdesk.com/support/home",
+      "startDate": "2021-06-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "IT help for engineering students, faculty, staff, and professors",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee two laboratories",
+        "Drive, design, and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Fatbooy's",
+      "position": "Cashier",
+      "website": "https://fatboyshawaii.com/",
+      "startDate": "2017-07-01",
+      "endDate": "2020-05-01",
+      "summary": "Took orders, arranged plate lunches, delivered food, and provided quality customer service for Fatboy's",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Catered for large parties, wedding receptions, and buisness meetings"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Raising Cane's",
+      "position": "Bird Specialist/Certified Trainer",
+      "website": "https://www.raisingcanes.com/",
+      "startDate": "2020-05-15",
+      "endDate": "2021-08-28",
+      "summary": "Kitchen lead, fry cook, and crewmember trainer for Raising Cane's",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Oversaw kitchen crew, push and inspire crew to be communicative and to work with a sense of quality & speed",
+        "Trained newly hired crewmembers to be the best they can be and to be comfortable working in the kitchen"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
