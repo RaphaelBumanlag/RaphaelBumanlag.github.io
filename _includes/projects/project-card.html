@@ -9,11 +9,12 @@
         <p class="card-text">{{ include.page.summary }}</p>
         <p>
           {% for label in include.page.labels %}
-          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
+          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill text-bg-primary">{{ label }}</span>
           {% endfor %}
         </p>
         {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">View GitHub Repo</a>
+        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
         {% else %}
         <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
         {% endif %}

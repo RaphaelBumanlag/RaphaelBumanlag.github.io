@@ -7,9 +7,13 @@ permalink: projects/Roomate-Radar-Application
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-15
 labels:
+  - Meteor
+  - MongoDB
+  - React
   - Web Design
   - Web Application
 summary: An application to find a roomate of your liking made by my group in ICS 314.
+projecturl: https://github.com/roommate-radar
 ---
 
 A link to the [Roomate-Radar](https://github.com/roommate-radar) GitHub website.

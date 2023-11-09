@@ -3,10 +3,10 @@
     "name": "Raphael Anroe Bumanlag",
     "label": "Student",
     "picture": "../img/IMG_2352%20(2).JPG",
-    "email": "raphael6@hawaii.edu",
-    "phone": "808-376-9229",
+    "email": "raphaelanroeb@gmail.com",
+    "phone": "(808)376-9229",
     "website": "https://RaphaelBumanlag.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "summary": "A dedicated and industrious software developer experienced in web and mobile applications. Experienced in leading team growth and productive deliverables, strong track record in full-stack development with a current focus on mobile application development. Seeking a challenging software engineering role where I can leverage my skills to drive innovation and contribute to the success of a dynamic team.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -29,70 +29,61 @@
   },
   "interests": [
     {
-      "name": "software engineering",
-      "keywords": [
-      ]
+      "name": "Software Engineering"
     },
     {
-      "name": "game development",
-      "keywords": [
-      ]
+      "name": "Web Development"
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "Moblie Development"
     },
     {
-      "name": "sustainablility",
-      "keywords": [
-      ]
+      "name": "Game Development"
+    },
+    {
+      "name": "Artificial Intelligence"
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Languages",
       "keywords": [
         "Java",
         "Javascript",
+        "Dart",
+        "Assembly",
         "C",
-        "C++"
+        "C++",
+        "HTML",
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "Frameworks & Libraries",
       "keywords": [
-        "Windows",
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub"
+        "React",
+        "Flutter",
+        "Riverpod",
+        "Meteor"
       ]
     },
     {
-      "name": "Experiences",
-      "level": "",
+      "name": "Cloud Services/Databases/Tools",
       "keywords": [
-        "Networking",
-        "Computer Hardware",
-        "Computer Troubleshooting"
-      ]
-    },
-    {
-      "name": "World Languages",
-      "level": "",
-      "keywords": [
-        "English",
-        "Tagalog",
-        "Japanese"
+        "MySQL",
+        "Firebase",
+        "MongoDB",
+        "GitHub",
+        "Git",
+        "IntelliJ",
+        "IntelliJ SDK"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science (Expected Fall 2023)",
       "studyType": "B.S.",
       "startDate": "2019-08-09",
       "endDate": "Present",
@@ -101,13 +92,19 @@
         "ICS 111 - Intro to Computer Science I",
         "ICS 141 - ICS Discrete Math I",
         "ICS 211 - Intro to Computer Science II",
-        "ICS 241 - ICS Discrete Math II",
         "ICS 212 - ICS Scripting or C/C++",
+        "ICS 241 - ICS Discrete Math II",
         "ICS 311 - Algorithms",
         "ICS 312 - Machine-Level and Systems Programming",
+        "ICS 313 - Programming Language Theory",
         "ICS 314 - Software Engineering I",
         "ICS 321 - Database Systems I",
-        "ICS 414 - Software Engineering II"
+        "ICS 332 - Operating Systems",
+        "ICS 414 - Software Engineering II",
+        "ICS 427 - Software Quality Assurance",
+        "ICS 451 - Data Networks",
+        "ICS 466 - Mobile Application Development",
+        "ICS 496 - Senior Capstone Project"
       ]
     }
   ],
