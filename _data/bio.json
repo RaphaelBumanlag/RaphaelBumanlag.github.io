@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Raphael Anroe Bumanlag",
+    "label": "Student",
+    "picture": "../img/IMG_2352%20(2).JPG",
+    "email": "raphaelanroeb@gmail.com",
+    "phone": "(808)376-9229",
+    "website": "https://RaphaelBumanlag.github.io",
+    "summary": "A dedicated and industrious software developer experienced in web and mobile applications. Experienced in leading team growth and productive deliverables, strong track record in full-stack development with a current focus on mobile application development. Seeking a challenging software engineering role where I can leverage my skills to drive innovation and contribute to the success of a dynamic team.",
+    "location": {
+      "address": "",
+      "postalCode": "96819",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "RaphaelBumanlag",
+        "url": "http://github.com/RaphaelBumanlag"
+      },
+      {
+        "network": "linkedin",
+        "username": "raphaelbumanlag",
+        "url": "https://www.linkedin.com/in/raphaelbumanlag/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "Moblie Development"
+    },
+    {
+      "name": "Game Development"
+    },
+    {
+      "name": "Artificial Intelligence"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Java",
+        "Javascript",
+        "Dart",
+        "Assembly",
+        "C",
+        "C++",
+        "HTML",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": [
+        "React",
+        "Flutter",
+        "Riverpod",
+        "Meteor"
+      ]
+    },
+    {
+      "name": "Cloud Services/Databases/Tools",
+      "keywords": [
+        "MySQL",
+        "Firebase",
+        "MongoDB",
+        "GitHub",
+        "Git",
+        "IntelliJ",
+        "IntelliJ SDK"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (Expected Fall 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-09",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "ICS 111 - Intro to Computer Science I",
+        "ICS 141 - ICS Discrete Math I",
+        "ICS 211 - Intro to Computer Science II",
+        "ICS 212 - ICS Scripting or C/C++",
+        "ICS 241 - ICS Discrete Math II",
+        "ICS 311 - Algorithms",
+        "ICS 312 - Machine-Level and Systems Programming",
+        "ICS 313 - Programming Language Theory",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 414 - Software Engineering II",
+        "ICS 427 - Software Quality Assurance",
+        "ICS 451 - Data Networks",
+        "ICS 466 - Mobile Application Development",
+        "ICS 496 - Senior Capstone Project"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa College of Engineering",
+      "position": "Computer Technician",
+      "website": "https://cee.freshdesk.com/support/home",
+      "startDate": "2021-06-15",
+      "endDate": "Present",
+      "summary": "IT help for engineering students, faculty, staff, and professors",
+      "highlights": [
+        "Maintain, update, and oversee two laboratories",
+        "Drive, design, and build student-community projects for UH Manoa"
+      ]
+    },
+    {
+      "company": "Fatbooy's",
+      "position": "Cashier",
+      "website": "https://fatboyshawaii.com/",
+      "startDate": "2017-07-01",
+      "endDate": "2020-05-01",
+      "summary": "Took orders, arranged plate lunches, delivered food, and provided quality customer service for Fatboy's",
+      "highlights": [
+        "Catered for large parties, wedding receptions, and buisness meetings"
+      ]
+    },
+    {
+      "company": "Raising Cane's",
+      "position": "Bird Specialist/Certified Trainer",
+      "website": "https://www.raisingcanes.com/",
+      "startDate": "2020-05-15",
+      "endDate": "2021-08-28",
+      "summary": "Kitchen lead, fry cook, and crewmember trainer for Raising Cane's",
+      "highlights": [
+        "Oversaw kitchen crew, push and inspire crew to be communicative and to work with a sense of quality & speed",
+        "Trained newly hired crewmembers to be the best they can be and to be comfortable working in the kitchen"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
