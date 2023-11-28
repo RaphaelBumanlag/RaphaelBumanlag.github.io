@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/default_opp_header.jpeg
+image: img/morea-intellij.png
 title: ICS 496 - IntelliJ Plugin for MOREA Framework
 permalink: projects/IntelliJ-Plugin
 # All dates must be YYYY-MM-DD format!

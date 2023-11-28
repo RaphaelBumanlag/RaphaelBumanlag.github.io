@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/default_opp_header.jpeg
+image: img/ConnectUni_Logo.png
 title: ICS 466 - Mobile Application Development | ConnectUni
 permalink: projects/ConnectUni
 # All dates must be YYYY-MM-DD format!
